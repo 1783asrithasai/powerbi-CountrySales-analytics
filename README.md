@@ -88,3 +88,12 @@ git commit -m "Track PBIX with LFS"
 - Use consistent file names and keep raw vs. processed files separate.
 - Model Diagram (https://github.com/1783asrithasai/powerbi-CountrySales-analytics/blob/main/docs/Model_Diagram.png)
 - Dash Board (https://github.com/1783asrithasai/powerbi-CountrySales-analytics/blob/main/docs/git_hub_dashboard.png)
+---
+
+## 📚 Attribution
+
+This project is inspired by and built upon the repository maintained by **IterationInsights / Chris Sorensen**:  
+[Microsoft-Press-Introduction-to-Microsoft-Power-BI-V2](https://github.com/IterationInsights/Microsoft-Press-Introduction-to-Microsoft-Power-BI-V2) :contentReference[oaicite:0]{index=0}
+
+I used it as a reference to learn the structure and data model, then reconstructed the project in my own way and added documentation, code exports, and custom dataset transforms.
+
