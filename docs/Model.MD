@@ -26,7 +26,6 @@ This document describes the star schema, table columns, relationships, and key m
 
 ### 1) Sales (Fact)
 *(Grain: one row per sales **order line**)*  
-![Sales Fields](./sales-fields.png)
 
 **Keys / Links**
 - `Sales Order Number`
