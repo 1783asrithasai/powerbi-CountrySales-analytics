@@ -86,3 +86,4 @@ git commit -m "Track PBIX with LFS"
 - Export any Power Query (M) or DAX measures as text and put them in `code/`.
 - Add a short write-up in `docs/` explaining sources, transformations, and assumptions.
 - Use consistent file names and keep raw vs. processed files separate.
+- Model Diagram 
