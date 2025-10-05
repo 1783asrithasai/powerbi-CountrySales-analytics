@@ -8,7 +8,7 @@ This document describes the star schema, table columns, relationships, and key m
 - **Fact**: `Sales`
 - **Dimensions**: `Order Date`, `Customer`, `Product`, `Sales Territory`
 
-![Model Diagram](./model-diagram.png)
+
 
 ---
 
