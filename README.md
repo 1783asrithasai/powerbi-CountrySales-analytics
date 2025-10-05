@@ -90,10 +90,14 @@ git commit -m "Track PBIX with LFS"
 - Dash Board (https://github.com/1783asrithasai/powerbi-CountrySales-analytics/blob/main/docs/git_hub_dashboard.png)
 ---
 
+---
+
 ## 📚 Attribution
 
-This project is inspired by and built upon the repository maintained by **IterationInsights / Chris Sorensen**:  
-[Microsoft-Press-Introduction-to-Microsoft-Power-BI-V2](https://github.com/IterationInsights/Microsoft-Press-Introduction-to-Microsoft-Power-BI-V2) :contentReference[oaicite:0]{index=0}
+This project is inspired by the work of [Iteration Insights](https://github.com/IterationInsights) and course tutor [@iichrissorensen](https://github.com/iichrissorensen).  
+The original repository can be found here:  
+[Microsoft-Press-Introduction-to-Microsoft-Power-BI-V2](https://github.com/IterationInsights/Microsoft-Press-Introduction-to-Microsoft-Power-BI-V2)
 
-I used it as a reference to learn the structure and data model, then reconstructed the project in my own way and added documentation, code exports, and custom dataset transforms.
+I used the repo as a reference to learn Power BI modeling and then recreated the project with my own documentation, exported DAX, and country-wise data organization.
+
 
