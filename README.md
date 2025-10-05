@@ -87,3 +87,4 @@ git commit -m "Track PBIX with LFS"
 - Add a short write-up in `docs/` explaining sources, transformations, and assumptions.
 - Use consistent file names and keep raw vs. processed files separate.
 - Model Diagram (https://github.com/1783asrithasai/powerbi-CountrySales-analytics/blob/main/docs/Model_Diagram.png)
+- Dash Board (https://github.com/1783asrithasai/powerbi-CountrySales-analytics/blob/main/docs/git_hub_dashboard.png)
